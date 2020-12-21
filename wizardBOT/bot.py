@@ -209,5 +209,5 @@ async def on_ready():
     #embed.set_footer(text='0/25 total')
     #await watchlistchannel.send(embed=embed)
 
-client.run('Nzg4NjM5MTA1NTkxNTQxODEw.X9mbZg.kY3hGwbQWZifi68c9ldOeH-j8BU')
+client.run('LOL U THOUGHT')
 print('Loaded bot.py')
