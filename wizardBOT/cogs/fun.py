@@ -5,17 +5,6 @@ import time
 import contextlib
 import io
 
-global stop 
-global getinfo
-global isSpamming
-global loopmute
-global loopmuteuser
-loopmute = False
-loopmuteuser = False
-stop = False
-getinfo = False
-isSpamming = False
-
 class Fun(commands.Cog):
 
     def __init__(self, client):
